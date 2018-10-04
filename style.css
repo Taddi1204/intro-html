@@ -22,7 +22,8 @@ h1 {
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 100%;
-    transition: background-size 0.25s ease-in;        
+    transition: background-size 0.25s ease-in;  
+    text-decoration: underline wavy red;
  
 {
  
@@ -47,7 +48,9 @@ h2 {
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 100%;
-    transition: background-size 0.25s ease-in;        
+    transition: background-size 0.25s ease-in;    
+    text-decoration: underline dotted red;
+ 
 p2 {
   background-color: no;
   color: black;
