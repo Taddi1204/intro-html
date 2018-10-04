@@ -2,12 +2,12 @@
 
 body {
     background: #e9e9e9;
-    background-colour: blue;
+    background-colour: red;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
     color: #053;
     display: grid;
-    align-items: center;
+    align-items: left;
     grid-template-columns: 300px auto;
     background-repeat: repeat;
 }
@@ -19,8 +19,8 @@ body:after {
     bottom: 0;
     width: 100%;
     padding: 10px;
-    color: #919191;
-    font-size: 10pt;
+    color: #967691;
+    font-size: 50pt;
 }
 
 h1 {
