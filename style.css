@@ -22,19 +22,17 @@ body {
 }
 p2 {
   background-color: no;
-  background-image: url("https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiAyKbYne3dAhUqPewKHfx1AgQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.abahanavillas.com%2Fde&psig=AOvVaw3RNIRL5jhMnIWm3uv44M0_&ust=1538750446282588");
   color: black;
-  grid-row-start: 20;
+  grid-row-start: 18;
   grid-column-start: 1;
   grid-column-end: 5;
 }
 p1 {
   background-color: no;
-  background-image: url("https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiAyKbYne3dAhUqPewKHfx1AgQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.abahanavillas.com%2Fde&psig=AOvVaw3RNIRL5jhMnIWm3uv44M0_&ust=1538750446282588");
   color: black;
   grid-row-start: 2;
   grid-column-start: 1;
-  grid-column-end: 13;
+  grid-column-end: 7;
   align-items: center;
 }
 body:after {
