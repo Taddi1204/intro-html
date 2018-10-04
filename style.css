@@ -56,8 +56,8 @@ h1 {
     transition: background-size 0.25s ease-in;        
 }
 h2 {
-    grid-row-start: 1;
-    grid-column-start: 12;
+    grid-row-start: 12;
+    grid-column-start: 1;
     grid-column-end: 13;
     color: rgb(120,221,04);
     font-size: 40pt;
