@@ -23,7 +23,7 @@ body {
 p2 {
   background-color: no;
   color: black;
-  grid-row-start: 18;
+  grid-row-start: 9;
   grid-column-start: 1;
   grid-column-end: 5;
 }
@@ -61,7 +61,7 @@ h1 {
     transition: background-size 0.25s ease-in;        
 }
 h2 {
-    grid-row-start: 12;
+    grid-row-start: 8;
     grid-column-start: 1;
     grid-column-end: 13;
     color: rgb(255,00,00);
