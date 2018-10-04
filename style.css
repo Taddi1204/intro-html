@@ -20,6 +20,11 @@ body {
     grid-template-columns: 300px auto;
     background-repeat: repeat;
 }
+p {
+  background-color: black;
+  background-image: url("https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiAyKbYne3dAhUqPewKHfx1AgQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.abahanavillas.com%2Fde&psig=AOvVaw3RNIRL5jhMnIWm3uv44M0_&ust=1538750446282588");
+  color: white;
+}
 
 body:after {
     content: "Danke fürs Lesen!";
@@ -35,8 +40,8 @@ body:after {
 h1 {
     grid-row-start: 1;
     grid-column-start: 1;
-    grid-column-end: 14;
-    color: rgb(35,21,04);
+    grid-column-end: 1;
+    color: rgb(120,221,04);
     font-size: 40pt;
     font-family: 'Playfair Display', sans-serif;
   
