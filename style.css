@@ -13,21 +13,21 @@ body {
 }
 
 body:after {
-    content: "Thanks to Unsplash (background image)";
+    content: "Danke fürs Lesen!";
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    padding: 10px;
-    color: #967691;
-    font-size: 50pt;
+    padding: 30px;
+    color: #000000;
+    font-size: 40pt;
 }
 
 h1 {
     grid-row-start: 1;
     grid-column-start: 1;
     grid-column-end: 5;
-    color: rgb(255,0,34);
+    color: rgb(255,00,00);
     font-size: 40pt;
     font-family: 'Playfair Display', sans-serif;
   
