@@ -3,7 +3,7 @@ title {
     background-colour: red;
     padding: 003;
     font-family: 'Open Sans', sans-serif;
-    color: #255;
+    color: #100;
     display: grid;
     align-items: center;
     grid-template-columns: 300 auto;
@@ -25,7 +25,7 @@ p1 {
   background-image: url("https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiAyKbYne3dAhUqPewKHfx1AgQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.abahanavillas.com%2Fde&psig=AOvVaw3RNIRL5jhMnIWm3uv44M0_&ust=1538750446282588");
   color: black;
 }
-p1 {
+p2 {
   background-color: no;
   background-image: url("https://www.google.de/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiAyKbYne3dAhUqPewKHfx1AgQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.abahanavillas.com%2Fde&psig=AOvVaw3RNIRL5jhMnIWm3uv44M0_&ust=1538750446282588");
   color: black;
