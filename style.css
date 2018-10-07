@@ -25,7 +25,7 @@ h1 {
     transition: background-size 0.25s ease-in;  
     align-items: center;
  {
-p1 {
+p {
   background-color: no;
   color: #000;
   grid-row-start: 4;
