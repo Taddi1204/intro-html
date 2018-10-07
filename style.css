@@ -75,17 +75,6 @@ body:after {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 50px;
     }
-
-    @-webkit-keyframes underline-gradient {
-    0% {
-      -webkit-transform: translate3d(0%, 0%, 0);
-              transform: translate3d(0%, 0%, 0);
-    }
-    100% {
-      -webkit-transform: translate3d(-75%, 0%, 0);
-              transform: translate3d(-75%, 0%, 0);
-    }
-        
  {
  
    @keyframes underline-gradient {
