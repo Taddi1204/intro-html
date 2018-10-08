@@ -43,7 +43,7 @@ h2 {
 
 p2 {
   background-color: white;
-  color: #ffffff;
+  color: #000;
   grid-row-start: 4;
   grid-column-start: 5;
   grid-column-end: 25;
