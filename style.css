@@ -3,7 +3,7 @@ h1 {
     grid-column-start: 8;
     grid-column-end: 24;
     color: rgb(00,00,00);
-    font-size: 100pt;
+    font-size: pt;
     font-family: 'Playfair Display', sans-serif;
     background-image: url("background.jpg");
     background-repeat: no-repeat;
