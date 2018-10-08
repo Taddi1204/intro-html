@@ -39,10 +39,10 @@ h2 {
 
 p2 {
   background-color: white;
-  color: #111;
+  color: #ffffff;
   grid-row-start: 4;
   grid-column-start: 5;
-  grid-column-end: 7;
+  grid-column-end: 25;
   align-items: center;
   font-size: 25pt;  
   background-image: url("background.jpg");
