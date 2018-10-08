@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
 
 body {
-    background: #66ffff;
+    background: 45% #90d5d5;
     background-image: url('');
     background-size: cover;
     padding: 100px;
@@ -90,7 +90,7 @@ ul:before {
 
 li {
     padding-top: 10px;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 a {
