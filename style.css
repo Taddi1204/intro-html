@@ -20,7 +20,6 @@ p {
   grid-column-end: 7;
   align-items: center;
   font-size: 25pt;  
-  background-image: url("background.jpg");
 }
 
 h2 {
@@ -37,3 +36,13 @@ h2 {
     transition: background-size 0.25s ease-in;  
     align-items: center;
 }
+
+p2 {
+  background-color: white;
+  color: #111;
+  grid-row-start: 4;
+  grid-column-start: 5;
+  grid-column-end: 7;
+  align-items: center;
+  font-size: 25pt;  
+  background-image: url("background.jpg");
