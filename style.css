@@ -20,7 +20,7 @@ p {
   grid-column-start: 5;
   grid-column-end: 7;
   align-items: center;
-  font-size: 12pt;  
+  font-size: 25pt;  
   background-image: url("background.jpg");
 }
 
