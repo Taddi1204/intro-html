@@ -32,7 +32,7 @@ p {
   grid-column-start: 5;
   grid-column-end: 7;
   align-items: center;
-  font-size: 18pt;  
+  font-size: 24pt;  
 }
 h2 {
     grid-row-start: 1;
