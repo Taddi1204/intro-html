@@ -21,6 +21,7 @@ p {
   grid-column-end: 7;
   align-items: center;
   font-size: 12pt;  
+  background-image: url("background.jpg");
 }
 
 h2 {
