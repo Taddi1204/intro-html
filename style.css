@@ -17,7 +17,7 @@ h1 {
 }
 
 p {
-  background-color: white;
+  background-color: no;
   color: #111;
   grid-row-start: 4;
   grid-column-start: 5;
