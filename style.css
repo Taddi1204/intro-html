@@ -1,9 +1,9 @@
 h1 {
     grid-row-start: 1;
-    grid-column-start: 0;
+    grid-column-start: 8;
     grid-column-end: 24;
     color: rgb(00,00,00);
-    font-size: pt;
+    font-size: 100pt;
     font-family: 'Playfair Display', sans-serif;
     background-image: url("background.jpg");
     background-repeat: no-repeat;
