@@ -1,5 +1,5 @@
 h1 {
-    grid-row-start: 1;
+    grid-row-start: 10;
     grid-column-start: 8;
     grid-column-end: 24;
     color: rgb(00,00,00);
